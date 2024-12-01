@@ -78,7 +78,7 @@ Hi 👋, I'm **Graciyan**<br>A passionate Full Stack Developer from Sri Lanka<br
 ---
 
 # 🎯 GitHub Trophies:
-![Jeyapragash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeyapragash1&theme=radical&no-frame=true)
+![Jeyapragash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=grasiyanculas&theme=radical&no-frame=true)
 
 ---
 
