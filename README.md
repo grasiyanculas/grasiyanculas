@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm **Graciyan**<br>A passionate Full Stack Developer from Sri Lanka<br><br>- 🌱 I’m currently pursuing **BSc in Industrial Information Technology** at **Uva Wellassa University, Sri Lanka**<br>- 💬 Ask me about **Full Stack Development, MERN Stack, PHP, JavaScript and MySQL**<br>- 📫 How to reach me: **kishojeyapragash@gmail.com**<br>- ⚡ Fun fact: **I love solving problems through coding and am always eager to learn new technologies!**
+Hi 👋, I'm **Graciyan**<br>A passionate Full Stack Developer from Sri Lanka<br><br>- 🌱 I’m currently pursuing **BSc in Industrial Information Technology** at **Uva Wellassa University, Sri Lanka**<br>- 💬 Ask me about **Full Stack Development,JavaScript MERN Stack, PHP,  and MySQL**Cyber security,Quality assurace enginearing(Automation)<br>- 📫 How to reach me: **culasgracian@gmail.com**<br>- ⚡ Fun fact: **I love solving problems through coding and am always eager to learn new technologies!**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeyapragas) 
