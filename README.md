@@ -2,11 +2,10 @@
 Hi 👋, I'm **Graciyan**<br>A passionate Full Stack Developer from Sri Lanka<br><br>- 🌱 I’m currently pursuing **BSc in Industrial Information Technology** at **Uva Wellassa University, Sri Lanka**<br>- 💬 Ask me about **Full Stack Development,JavaScript MERN Stack, PHP,  and MySQL**Cyber security,Quality assurace enginearing(Automation)<br>- 📫 How to reach me: **culasgracian@gmail.com**<br>- ⚡ Fun fact: **I love solving problems through coding and am always eager to learn new technologies!**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeyapragas) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeya-pragash-163355266) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JeyaPragash015)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://jeyapragashkisho.netlify.app/)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=portfolio&logoColor=white)]()
 
 
 # 💻 Tech Stack:
@@ -20,8 +19,6 @@ Hi 👋, I'm **Graciyan**<br>A passionate Full Stack Developer from Sri Lanka<br
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -48,7 +45,7 @@ Hi 👋, I'm **Graciyan**<br>A passionate Full Stack Developer from Sri Lanka<br
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ---
 
